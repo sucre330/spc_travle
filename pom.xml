@@ -7,6 +7,7 @@
   <groupId>com.sucre.spc</groupId>
   <artifactId>spc_travle</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
 
   <name>spc_travle</name>
   <description>A simple spc_travle.</description>
@@ -71,11 +72,11 @@
     </pluginManagement>
   </build>
 
-  <reporting>
+ <!-- <reporting>
     <plugins>
       <plugin>
         <artifactId>maven-project-info-reports-plugin</artifactId>
       </plugin>
     </plugins>
-  </reporting>
+  </reporting>-->
 </project>
